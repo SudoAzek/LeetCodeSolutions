@@ -16,10 +16,10 @@
 
 ## Math
 | # | Title | Solution | Complexity | Difficulty |
-|:---:| ----- | :--------: | :----------: | :----------: | :----------: |
+|:---:| ----- | :--------: | :----------: | :----------: |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [JAVA](./Java/Pow.java) <br> [C++](./C++/Pow.cpp) <br> [Python](./Python/Pow.py) | Time - **O(log<sub>2</sub>(n))** <br>Space - **O(1)**| Medium 
 
 ## Stack
 | # | Title | Solution | Complexity | Difficulty |
-|:---:| ----- | :--------: | :----------: | :----------: | :----------: |
+|:---:| ----- | :--------: | :----------: | :----------: |
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)| [JAVA](./Java/MinStack.java) <br> [C++](./C++/MinStack.cpp) <br> [Python](./Python/MinStack.py) | Time - **O(1)** <br>Space - **O(n)**| Medium 
